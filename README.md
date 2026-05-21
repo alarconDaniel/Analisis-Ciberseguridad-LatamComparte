@@ -61,17 +61,15 @@ El laboratorio contempla diferentes tipos de análisis y pruebas controladas:
 
 Las herramientas seleccionadas para el laboratorio fueron:
 
-| Herramienta | Propósito principal |
-|---|---|
-| **ZAP Proxy** | Escaneo y análisis de vulnerabilidades web. |
-| **Nmap** | Reconocimiento de red, puertos y servicios expuestos. |
-| **Wafw00f** | Identificación de posibles Web Application Firewalls. |
-| **Sslscan** | Revisión de configuración SSL/TLS. |
-| **Burp Suite Community** | Interceptación, análisis y manipulación controlada de tráfico web. |
-| **HTTrack** | Clonación local del sitio para inspección pasiva. |
-| **Prompt Injection Scripts Python** | Ejecución de pruebas controladas contra el chatbot. |
-| **Prompt Injection Patterns** | Patrones de prueba para evaluar resistencia ante instrucciones maliciosas. |
-
+| Herramienta | Propósito principal | Reporte |
+|---|---|---|
+| **ZAP Proxy** | Escaneo y análisis de vulnerabilidades web. | [Ver reporte](./reports/zaproxy/) |
+| **Nmap** | Reconocimiento de red, puertos y servicios expuestos. | [Ver reporte](./reports/nmap/) |
+| **Wafw00f** | Identificación de posibles Web Application Firewalls. | [Ver reporte](./reports/wafw00f/) |
+| **Sslscan** | Revisión de configuración SSL/TLS. | [Ver reporte](./reports/sslscan/) |
+| **Burp Suite Community** | Interceptación, análisis y revisión manual de tráfico web. | [Ver reporte](./reports/burp-suite/) |
+| **HTTrack** | Clonación local del sitio para inspección pasiva. | [Ver reporte](./reports/httrack/) |
+| **Prompt Injection Scripts Python** | Ejecución de pruebas controladas contra el chatbot. | [Ver reporte](./reports/prompt-injection/) |
 ---
 
 ## 🤖 Seguridad del chatbot
