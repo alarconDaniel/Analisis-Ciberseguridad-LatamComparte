@@ -69,7 +69,7 @@ Las herramientas seleccionadas para el laboratorio fueron:
 | **Sslscan** | Revisión de configuración SSL/TLS. | [Ver reporte](./reports/sslscan/) |
 | **Burp Suite Community** | Interceptación, análisis y revisión manual de tráfico web. | [Ver reporte](./reports/burp-suite/) |
 | **HTTrack** | Clonación local del sitio para inspección pasiva. | [Ver reporte](./reports/httrack/) |
-| **Prompt Injection Scripts Python** | Ejecución de pruebas controladas contra el chatbot. | [Ver reporte](./reports/prompt-injection/) |
+| **Prompt Injection** | Ejecución de pruebas controladas contra el chatbot. | [Ver reporte](./reports/prompt-injection/) |
 ---
 
 ## 🤖 Seguridad del chatbot
