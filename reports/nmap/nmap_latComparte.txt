@@ -1,0 +1,19 @@
+# Nmap 7.95 scan initiated Wed May 20 18:43:04 2026 as: /usr/lib/nmap/nmap --privileged -sV -sC -p 80,443 -oN reporte_nmap_latam.txt latinoamericacomparte.com
+Nmap scan report for latinoamericacomparte.com (64.202.187.143)
+Host is up (0.11s latency).
+rDNS record for 64.202.187.143: ip-64-202-187-143.ip.secureserver.net
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     Apache httpd
+|_http-server-header: Apache
+|_http-title: Latinoam\xC3\xA9rica Comparte \xE2\x80\x94 Inspirando Prop\xC3\xB3sito
+443/tcp open  ssl/http Apache httpd
+|_http-title: Latinoam\xC3\xA9rica Comparte \xE2\x80\x94 Inspirando Prop\xC3\xB3sito
+| ssl-cert: Subject: commonName=www.latinoamericacomparte.com
+| Subject Alternative Name: DNS:autodiscover.latinoamericacomparte.com, DNS:cpanel.latinoamericacomparte.com, DNS:latinoamericacomparte.com, DNS:webdisk.latinoamericacomparte.com, DNS:webmail.latinoamericacomparte.com, DNS:www.latinoamericacomparte.com
+| Not valid before: 2026-04-07T21:34:40
+|_Not valid after:  2026-07-06T21:34:39
+|_http-server-header: Apache
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed May 20 18:43:43 2026 -- 1 IP address (1 host up) scanned in 39.56 seconds
