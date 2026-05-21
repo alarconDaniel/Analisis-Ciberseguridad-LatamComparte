@@ -137,9 +137,19 @@ Los reportes generados por las herramientas utilizadas se encuentran organizados
 ```txt
 reports/
 ```
+## 📂 Acceso rápido a reportes
 
-Cada subcarpeta corresponde a una herramienta o tipo de prueba específica. Allí se almacenan archivos exportados, resultados de análisis, capturas y evidencias relevantes del proceso.
+Cada carpeta contiene un `README.md` propio con el comando ejecutado, objetivo de la prueba, resultados obtenidos, hallazgos y recomendaciones.
 
+| Código | Herramienta / Prueba | Enlace |
+|---|---|---|
+| WEB-001 | OWASP ZAP | [Abrir reporte ZAP](./reports/zaproxy/) |
+| WEB-002 | Nmap | [Abrir reporte Nmap](./reports/nmap/) |
+| WEB-003 | Wafw00f | [Abrir reporte Wafw00f](./reports/wafw00f/) |
+| WEB-004 | sslscan | [Abrir reporte sslscan](./reports/sslscan/) |
+| WEB-005 | Burp Suite Community | [Abrir reporte Burp Suite](./reports/burp-suite/) |
+| AUX-001 | HTTrack | [Abrir reporte HTTrack](./reports/httrack/) |
+| PI-001 a PI-007 | Prompt Injection | [Abrir reporte Prompt Injection](./reports/prompt-injection/) |
 ---
 
 ## 🧭 Metodología general
