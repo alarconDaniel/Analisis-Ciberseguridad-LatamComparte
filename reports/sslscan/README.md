@@ -76,7 +76,7 @@ La configuración TLS del servidor es adecuada en términos generales: protocolo
 
 ---
 
-## 🗂️ Archivos en esta carpeta
+## 🗂️ Archivos 
 
 | Archivo | Descripción |
 |---|---|

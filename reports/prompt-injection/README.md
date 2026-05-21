@@ -82,7 +82,7 @@ Durante la ejecución de las 7 pruebas de Prompt Injection, el chatbot bloqueó 
 
 ---
 
-## 🗂️ Archivos en esta carpeta
+## 🗂️ Archivos
 
 | Archivo | Descripción |
 |---|---|

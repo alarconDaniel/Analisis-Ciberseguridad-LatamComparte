@@ -62,7 +62,7 @@ El reconocimiento con Nmap confirmó que el dominio está activo y resuelve haci
 
 ---
 
-## 🗂️ Archivos en esta carpeta
+## 🗂️ Archivos
 
 | Archivo | Descripción |
 |---|---|

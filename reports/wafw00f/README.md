@@ -59,7 +59,7 @@ Wafw00f no identificó ningún WAF reconocible sobre el sitio objetivo. Esto sug
 
 ---
 
-## 🗂️ Archivos en esta carpeta
+## 🗂️ Archivos
 
 | Archivo | Descripción |
 |---|---|

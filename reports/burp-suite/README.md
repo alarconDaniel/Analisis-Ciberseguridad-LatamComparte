@@ -72,7 +72,7 @@ Burp Suite Community confirmó y complementó manualmente los hallazgos reportad
 
 ---
 
-## 🗂️ Archivos en esta carpeta
+## 🗂️ Archivos
 
 | Archivo | Descripción |
 |---|---|

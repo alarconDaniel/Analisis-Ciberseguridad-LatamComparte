@@ -67,7 +67,7 @@ El análisis con OWASP ZAP no evidenció hallazgos de severidad alta. Sin embarg
 
 ---
 
-## 🗂️ Archivos en esta carpeta
+## 🗂️ Archivos
 
 | Archivo | Descripción |
 |---|---|

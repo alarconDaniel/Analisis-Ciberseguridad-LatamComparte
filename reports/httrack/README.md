@@ -51,11 +51,6 @@ El uso de HTTrack se limita al análisis de recursos públicamente accesibles de
 
 ---
 
-## 🗂️ Archivos en esta carpeta
-
-| Archivo | Descripción |
-|---|---|
-| `EVID-WEB-HTTRACK-01.png` | Captura de la ejecución de HTTrack y estructura descargada |
 
 ---
 
